@@ -2,5 +2,23 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/slf4j-api-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/slf4j-simple-2.0.0-alpha1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/xlsx-streamer-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/viet/eclipse-workspace/jar file/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
